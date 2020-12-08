@@ -1,18 +1,19 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "This app will alow you to track your budget on line or off line",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
+    "watch": "nodemon server.js",
     "lite-server": "lite-server"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
   },
-  "author": "",
+  "author": "Tyler Morgan and the bcs team",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/coding-boot-camp/unit18hw/issues"
